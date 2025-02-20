@@ -1,3 +1,5 @@
-streamlit==1.42.0
-torch==2.6.0
-whisper==1.0.0
+whisper
+openai-whisper==
+torch==
+streamlit==
+ffmpeg-python==
