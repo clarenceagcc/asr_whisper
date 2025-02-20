@@ -1,4 +1,4 @@
-streamlit==1.18.0
+streamlit==1.42.0
 whisper==1.0.0
-torch==2.0.0
+torch==2.6.0
 ffmpeg-python==4.4.0
